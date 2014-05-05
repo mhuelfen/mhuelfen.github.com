@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Michael A. Hülfenhaus – rapITinnovationBrain
+title: Michael A. Hülfenhaus – rapIT innovationBrain
 ---
 {% include JB/setup %}
 

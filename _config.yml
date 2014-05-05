@@ -11,10 +11,10 @@ pygments: true
 title : rapITinnovationBrain
 tagline: mhuelfen represent
 author :
-  name : Michael Hülfenhaus
+  name : Michael A. Hülfenhaus
   email : huelfe@gmx.de
   github : mhuelfen
-  twitter : Zer02k12
+  twitter : Zero2k12
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-13164208-2'
     getclicky :
       site_id :
     mixpanel :

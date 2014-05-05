@@ -4,15 +4,15 @@ title: Michael A. Hülfenhaus – rapIT innovationBrain
 ---
 {% include JB/setup %}
 
-## rap . freestyle rap  
+### rap . freestyle rap  
 represent [Zero2012] (http://www.facebook.com/Zero2012N)
 
-## IT : TEXTMINING;  BIG DATA; WEB
+### IT : TEXTMINING;  BIG DATA; WEB
 my code at [github] (http://github.com/mhuelfen)
 
-## innovation . design thinking 
+### innovation . design thinking 
 skills from [HPI School of Design Thinking] (http://www.hpi.uni-potsdam.de/d_school/)
-## Brain : Cognitive Science
+### Brain : Cognitive Science
 i'm a [cogsci] (http://cogsci.uni-osnabrueck.de)
 
 

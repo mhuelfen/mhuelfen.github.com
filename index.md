@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Michael A. Hülfenhaus – rapIT innovationBrain
+tags : [about, contact]
+description : 'This is Michael A. Hülfenhaus representing Rap, IT, Design Thinking and Cognitive Science.'
 ---
 {% include JB/setup %}
 

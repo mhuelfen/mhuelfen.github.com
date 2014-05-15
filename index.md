@@ -10,7 +10,7 @@ description : 'This is Michael A. Hülfenhaus representing Rap, IT, Design Think
 
 #### IT : [TEXTMINING;  BIG DATA; WEB] (http://github.com/mhuelfen "my code at github")
 
-#### innovation . [design thinking]((http://www.hpi.uni-potsdam.de/d_school/ "skills from d.school Potsdam")
+#### innovation . [design thinking](http://www.hpi.uni-potsdam.de/d_school/ "skills from d.school Potsdam")
 
 #### Brain : [Cognitive Science](http://cogsci.uni-osnabrueck.de "i'm a cogsci")
 

@@ -6,7 +6,7 @@ description : 'This is Michael A. Hülfenhaus representing Rap, IT, Design Think
 ---
 {% include JB/setup %}
 
-#### rap . [freestyle rap] (http://www.facebook.com/Zero2012N "Zero2012 represent ")
+#### rap ... [freestyle rap] (http://www.facebook.com/Zero2012N "Zero2012 represent ")
 
 #### IT : [TEXTMINING;  BIG DATA; WEB] (http://github.com/mhuelfen "my code at github")
 

@@ -1,3 +1,6 @@
+Uses Front page theme
+https://github.com/dashingcode/front-cover
+
 # front cover jekyll theme
 
 ## Why choose this jekyll theme for your front page?
